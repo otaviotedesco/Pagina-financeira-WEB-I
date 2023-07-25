@@ -1,0 +1,187 @@
+@charset "UTF-8";
+
+header{
+
+    background-color: #e5e5e5;
+    text-align: right;
+}
+
+
+body{
+    background-color: #14213d;
+
+}
+
+
+h1#principal {
+
+    background-color: #fca311;
+    color: #000;
+    text-align: center;
+    height: 180px;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p#cabecalho
+{
+    display: inline-block;
+    width: 1500px;
+    text-align: center;
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav{
+margin-left: 380px;
+color: antiquewhite;
+font-size: large;
+margin-top: 10px;
+
+}
+
+.caixas{
+    width: 355px;
+    min-height: 250px;
+    float:left;
+   margin-top: 50px;
+   margin-left: 95px;
+   margin-bottom: 20px;
+   border-radius: 7px; 
+}
+
+
+div#noticias:hover
+{
+    background-color: #e5e5e5;
+    color: #000;
+}
+div#noticias
+{
+    background-color:#14213d ;
+    color: #14213d00;
+
+}
+div#commodities
+{
+    background-color:#14213d ;
+    color: #14213d00;
+     
+}
+
+div#commodities:hover
+{
+    background-color: #e5e5e5;
+    color: #000;
+}
+
+
+div#indices:hover
+{
+    background-color: #e5e5e5;
+    color: #000;
+}
+
+div#indices
+{
+   
+    background-color:#14213d ;
+    color: #14213d00;
+}
+
+ul{
+   font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+
+
+p{
+    width: 250px;
+    height: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+
+h2{
+    background-color: #f2f0edb9;
+    width: 355px;
+    text-align: center;
+    margin-top: 0px;
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #14213d;
+}
+
+
+.poupar{
+   margin-top: 500px;
+    text-align: center;
+    width: 800px;
+    margin-left: 350px;
+    color: #000;
+    background-color: #fca311;
+}
+
+.ref1{
+   
+    text-align: center;
+    width: 500px;
+    margin-left: 500px;
+    color: #000;
+    background-color: #fca311;
+   
+}
+
+
+
+p#ref{
+    
+    margin-top: 10px;
+    text-align: justify;
+    height: 200px;
+    width: 880px;
+    background-color: #adb5bdc2;
+    margin-left: 290px;
+    line-height: 25px;
+    padding: 10px;
+    background-image: linear-gradient(to right, );
+}
+
+p#ref:hover{
+    background-color: #fca311;
+   
+}
+
+footer{
+
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    border:solid 1px, black;
+    margin-left: 400px;
+    background-color: #b8c7d0e4;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+th{
+background-color: #7D82B8;
+}
+
+article {
+    clear:both;
+}
+
+img{
+    margin-left: 500px ;
+    margin-bottom: 10px;
+}
